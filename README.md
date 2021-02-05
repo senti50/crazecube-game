@@ -10,8 +10,8 @@ The game consists in avoiding the obstacle in the form of orange rectangles. The
 
 #### Menu
 
-![menu](screens/menu.png)
+![menu](screens/menu.PNG)
 
 #### Gameplay
 
-![gameflow](screens/game.png)
+![gameflow](screens/game.PNG)
