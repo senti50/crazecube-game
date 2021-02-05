@@ -7,7 +7,11 @@
 The game consists in avoiding the obstacle in the form of orange rectangles. The player is a green square which is controlled by buttons A(left) and D(right). There are 4 levels in the game.
 
 # Visuals
-Menu
-![menu](screens/menu.jpg)
-Gameplay
-![menu](screens/game.jpg)
+
+#### Menu
+
+![menu](screens/menu.png)
+
+#### Gameplay
+
+![gameflow](screens/game.png)
